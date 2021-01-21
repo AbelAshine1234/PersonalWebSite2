@@ -1,0 +1,18 @@
+a{
+    color: rgb(64, 109, 128);
+    
+}
+a:hover{
+     color: rgb(78, 223, 223);
+     text-decoration: none;
+} 
+.title-bar{
+    background-color: rgb(212, 124, 212);
+}
+.icon-text{
+    font-size: 24px;
+}
+nav{
+    font-family: 'Fraunces', serif    ;
+
+}
